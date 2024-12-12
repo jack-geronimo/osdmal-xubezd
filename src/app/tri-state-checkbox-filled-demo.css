@@ -1,0 +1,9 @@
+
+::ng-deep .custom-tristate-checkbox .p-checkbox-box.p-highlight {
+  background-color: #ff4081 !important;
+}
+
+::ng-deep .custom-tristate-checkbox.p-checkbox-indeterminate .p-checkbox-box {
+  background-color: #ff4081 !important;
+}
+
